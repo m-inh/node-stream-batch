@@ -23,7 +23,7 @@ Xôn xao ngoài cửa hiếm gì yến anh.
 ....
 ```
 
-2. Viết API phục vụ tĩnh (serve static) một tệp lớn bất kì trên 1GB (ví dụ: `https://speed.hetzner.de/1GB.bin`), sau đó thực hiện đánh giá 2 cách làm với tiêu chí sau:
+2. Viết API phục vụ tĩnh (serve static) một tệp lớn bất kì trên 1GB (tệp mẫu: `https://speed.hetzner.de/1GB.bin`), sau đó thực hiện đánh giá 2 cách làm với tiêu chí sau:
 - Thời gian tải đối với 1 request
 - Thực hiện gọi 10 request đồng thời, thống kê số lượng request thành công và thất bại, thời gian tải tương ứng với mỗi request
 
