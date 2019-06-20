@@ -1,0 +1,6 @@
+{
+  "name": "node-stream-batch",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
